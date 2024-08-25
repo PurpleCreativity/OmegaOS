@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "forceConsistentCasingInFileNames": true,
+      "target": "ESNext",
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "lib": ["ES2020", "DOM"],
+      "rootDir": "./src",
+      "outDir": "build",
+      "strict": true,
+      "strictPropertyInitialization": false,
+      "resolveJsonModule": true,
+      "sourceMap": true,
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+    },
+    "include": ["src"],
+  }
